@@ -1,16 +1,44 @@
-# expense_tracker
+# Expense Tracker App
 
-A new Flutter project.
+A Flutter based expense tracking app that integrates with Google Sheets as the backend.
+
+## Features
+
+- Expense Tracking
+- Flutter Development
+- Google Sheets Integration
+- Intuitive UI/UX
+- Customizable Skins
+- Interactive Graphs
+- Multi-Platform Support
+- Real-time Data
+- User-friendly
+
+## Screenshots
+
+![Expense Tracker App Screenshots](screenshots/expense_tracker_app.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+$ git clone https://github.com/Singh-Gursahib/ExpenseTracker.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Open the project in your preferred IDE
+
+3. Run the following command in terminal to get the required packages
+
+$ flutter pub get
+
+4. Connect the app to your Google Sheets account
+
+5. Run the app on an emulator or a physical device
+
+## Contributions
+
+Feel free to contribute to this project by creating a pull request.
+
+## License
+
+This is a personal project and I am glad if it helps anyone in any way. The code is open-sourced and free to use.
