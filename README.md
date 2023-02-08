@@ -16,7 +16,7 @@ A Flutter based expense tracking app that integrates with Google Sheets as the b
 
 ## Screenshots
 
-![Expense Tracker App Screenshots](ExpenseTracker/blob/main/Github-Posts.png)
+![Expense Tracker App Screenshots](Github-Posts.png)
 
 ## Getting Started
 
